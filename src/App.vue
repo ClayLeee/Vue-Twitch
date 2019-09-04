@@ -1,5 +1,5 @@
 <template>
-  <div id="#app">
+  <div id="app">
     <div class="container-fluid pt-5 mh-100">
       <div class="menu col-md-6 text-center mb-4 mx-auto">
         <h1 class="text-center mb-3" v-model="title">{{ title }}</h1>
